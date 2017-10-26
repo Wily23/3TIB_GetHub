@@ -11,7 +11,18 @@
     <div>
     
         <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
-    
+        <table class="auto-style1">
+        <tr>
+            <td>Nama</td>
+            <td> : </td>
+            <td>Wily</td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td> : </td>
+            <td>1555301089</td>
+        </tr>
+    </table>
     </div>
     </form>
 </body>
